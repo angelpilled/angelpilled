@@ -1,3 +1,5 @@
+[<img src="imgs/penguin-space-1.gif" alt="angelpilled.dev" title="angelpilled.dev">]
+
 ## About Me 👤
 - Mostly front-end web developer, but I do back-end occasionally 🕸
 - C enthusiast; I like low-level programming 🧊
