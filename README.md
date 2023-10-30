@@ -20,4 +20,3 @@
 ## Contact
 [<img src="imgs/discord-icon.svg" height="40em" align="center" alt="Discord Server" title="Discord Server">](https://discord.gg/k2YFxCbjS)
 [<img src="imgs/Logo_of_Twitter.svg.png" height="40em" align="center" alt="Twitter" title="Twitter">](https://twitter.com/angelpilled_dev)
-[<img src="imgs/discord-icon.svg" height="40em" align="center" alt="Discord Server" title="Discord Server">](https://discord.gg/k2YFxCbjS)
