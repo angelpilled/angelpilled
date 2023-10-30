@@ -18,6 +18,6 @@
 - I plan to be someone who could teach others in the future! 🏫
 
 ## Contact 📬
-You can follow and message me on Twitter 🐦 (it's not X) or join my Discord server where we'd discuss tech related stuff.
+You can follow and message me on Twitter (it's not X) or join my Discord server where we'd discuss tech related stuff.<br>
 [<img src="imgs/discord-icon.svg" height="40em" align="center" alt="Discord Server" title="Discord Server">](https://discord.gg/k2YFxCbjS)
 [<img src="imgs/Logo_of_Twitter.svg.png" height="40em" align="center" alt="Twitter" title="Twitter">](https://twitter.com/angelpilled_dev)
