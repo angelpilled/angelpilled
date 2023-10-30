@@ -4,7 +4,7 @@
 - Mostly front-end web developer, but I do back-end occasionally 🕸
 - C enthusiast; I like low-level programming 🧊
 - Open-source software advocate 📜
-- Arch Linux wizard (i use arch btw) 🐧
+- Arch Linux wizard (I use Arch BTW) 🐧
 
 ## Latest Projects 🛠
 - [angelpilled-configs](https://github.com/angelpilled/angelpilled-configs) - All my configs related to Linux
